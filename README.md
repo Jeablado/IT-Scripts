@@ -5,7 +5,7 @@ Ce dépôt contient une collection de scripts PowerShell utilisés au quotidien 
 ## Contenu
 - **Exportateur ACL** : récupère les droits ACL sur différents dossiers définis
 - **Planificateur de tâches** : outils pour lister et analyser les tâches planifiées sur un ou plusieurs serveurs.
-- **Exchange / Microsoft 365** : scripts pour la gestion des boîtes aux lettres et des permissions.
+- **Microsoft 365** : scripts pour la gestion des boîtes aux lettres partagées et des listes de diffusions.
 - **AutoLogon Setter** : active / désactive l'autologon sur des machines données
 
 ## Utilisation
