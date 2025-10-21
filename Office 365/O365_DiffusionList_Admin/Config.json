@@ -1,0 +1,16 @@
+{
+  "UsersAttributesAndDLs": [
+    {
+      "ADAttributes": {"AttributeType": "l", "AttributeData": ["Ville1", "Ville2"]},
+      "TargetDLs": ["ld1@example.com", "ld2@example.com"]
+    }
+  ],
+  "ADSettings": {
+    "filter": {"Company": "My Company"},
+    "Property": ["DisplayName", "l", "EmailAddress"]
+  },
+  "DLsToClear": [
+    "ld1@example.com",
+    "ld2@example.com"
+  ]
+}
