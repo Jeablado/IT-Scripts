@@ -1,9 +1,3 @@
-Les tâches planifiées sont enregistrées en local pour faciliter le run.
-Mais une copie est enregistrée sous: 
-S:\20 Informatique\6 - Back_up_taches_planifiees_win11
-Penser à mettre à jour le back-up lorsque l'on modifie les fichiers enregistrés dans le dossier courant
-
-
 
 ----- IMPORTANT --------
 
