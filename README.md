@@ -7,6 +7,7 @@ Ce dépôt contient une collection de scripts PowerShell utilisés au quotidien 
 - **Planificateur de tâches** : outils pour lister et analyser les tâches planifiées sur un ou plusieurs serveurs.
 - **Microsoft 365** : scripts pour la gestion des boîtes aux lettres partagées et des listes de diffusions.
 - **AutoLogon Setter** : active / désactive l'autologon sur des machines données
+- **SAM - Maintenance** : outil installé sur les postes utilisateurs pour leur permettre de s'auto-dépanner + menu technicien pour opérations en local
 
 ## Utilisation
 1. **Cloner le dépôt** ou télécharger le script souhaité :

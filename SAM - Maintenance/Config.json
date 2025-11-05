@@ -1,0 +1,20 @@
+{
+  "Drives": [
+    {
+      "Name": "",
+      "Root": ""
+    }
+  ],
+  "NetworkPrinters": [
+    {
+      "Name": "", 
+      "Root": ""
+    }
+  ],
+  "SccmCollections":[
+    {
+      "SiteServer": "",
+      "Namespace": ""
+    }
+  ]
+}
