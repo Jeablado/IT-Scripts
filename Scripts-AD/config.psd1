@@ -1,6 +1,14 @@
 @{	
+	# AD
+	AdDomain = ""
 	AdSearchBase = "" # DN (Distinguished Name) AD des postes à requêter. Exemple "OU=...,DC=...,DC=..."
+	
+	# NETWORK
 	networkAddress = "" #Identifiant de réseau (Partie commune à tous les hôtes du même sous-réseau). Exemple 10.20
+	
+	# EMAIL
+	SMTPServer = "" 
+	FromEmail = ""
 
 	# PATHS
 	# --Root
@@ -22,5 +30,12 @@
 
 	# ****OutputCSV****
 	ScreensCsvPath = "\OutputCSV\ComputersScreens.csv"
-	LoggedOnUsersCsvPath = "\OutputCSV\LoggedOnUsers.csv"	
+	LoggedOnUsersCsvPath = "\OutputCSV\LoggedOnUsers.csv"
+
+	# SCRIPT RESET-ADPASSWORD
+	ResetADPasswordGroupName = ""
+	ResetADPasswordEmailSubject = ""
+	ResetADPasswordEmailBodyTemplate = ""
+	ResetADPasswordSamAccountNames =  @("")
+	
 }
